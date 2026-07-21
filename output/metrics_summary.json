@@ -1,0 +1,13 @@
+{
+  "total_return_pct": 1.7787893485647466,
+  "cagr_pct": 0.9184198452006465,
+  "sharpe_ratio": 0.21896494607420552,
+  "sortino_ratio": 0.256302574436347,
+  "max_drawdown_pct": -4.715684982278301,
+  "num_trades": 16,
+  "win_rate": 0.375,
+  "profit_factor": 1.2190172075971655,
+  "avg_win": 1650.0794986081855,
+  "avg_loss": -812.1687643084371,
+  "buy_and_hold_return_pct": 6.5412507356639615
+}
