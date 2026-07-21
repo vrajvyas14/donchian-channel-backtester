@@ -60,7 +60,8 @@ across long horizons and a diversified basket of uncorrelated markets
 single equity over two years is a fair demo of the mechanics, not a
 claim that this specific configuration is "better than the market."
 
-Charts: `output/equity_curve.png`, `output/drawdown.png`.
+![Equity curve: strategy vs buy and hold](output/equity_curve.png)
+![Strategy drawdown](output/drawdown.png)
 
 ## Running it
 
