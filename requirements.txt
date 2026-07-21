@@ -1,0 +1,5 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+yfinance>=0.2      # only needed for --live (real-time ticker pulls)
+streamlit>=1.30    # only needed for dashboard.py
